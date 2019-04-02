@@ -92,7 +92,7 @@ Example for Maven:
 To build the driver:
 
 ```
-$ git clone https://github.com/mongodb/mongo-java-driver-reactivestreams.git
+$ git clone https://github.com/denis554/mongo-java-driver-reactivestreams.git
 $ cd mongo-java-driver-reactivestreams
 $ ./gradlew check
 ```
