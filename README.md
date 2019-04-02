@@ -107,13 +107,7 @@ Some manual configuration steps are required to run the code in IntelliJ:
  - Set `compileBuildConfig` to execute Before Build. via Gradle > Tasks > other > right click compileBuildConfig - click on "Execute Before Build" 
  - Delegate all build actions to Gradle: Settings > Build, Execution, Deployment > Build Tools > Gradle > Runner - tick "Delegate IDE build/run actions to gradle"
 
-
-## Maintainers
-
-* Ross Lawley          ross@mongodb.com
-* Jeff Yemin           jeff.yemin@mongodb.com
-
-Additional contributors can be found [here](https://github.com/mongodb/mongo-java-driver-reactivestreams/graphs/contributors).
+Additional contributors can be found [here](https://github.com/denis554/mongo-java-driver-reactivestreams/graphs/contributors).
 
 ## Supporters
 
